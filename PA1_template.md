@@ -191,6 +191,7 @@ grid.arrange(p1, p2, ncol=1)
 ```
 
 ![plot of chunk weekend](figure/weekend-1.png) 
+  
 ***There are differences in the patterns between the weekdays and the weekends. During the weekdays the majority of the steps are in the morning. On the weekends the steps are more evenly distributed through out the day.***
 
 

@@ -89,6 +89,7 @@ p2<-ggplot(weekendGroup,aes(x=interval, y=steps)) + geom_line() +
     scale_y_continuous(limits=c(0,250))
 grid.arrange(p1, p2, ncol=1)
 ```
+  
 ***There are differences in the patterns between the weekdays and the weekends. During the weekdays the majority of the steps are in the morning. On the weekends the steps are more evenly distributed through out the day.***
 
 
